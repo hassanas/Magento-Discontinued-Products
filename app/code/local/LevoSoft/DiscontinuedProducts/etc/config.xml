@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LevoSoft_DiscontinuedProducts>
+            <version>0.0.1</version>
+        </LevoSoft_DiscontinuedProducts>
+    </modules>
+    <global>
+        <helpers>
+            <discontinuedproducts>
+                <class>LevoSoft_DiscontinuedProducts_Helper</class>
+            </discontinuedproducts>
+        </helpers>
+        <models>
+            <discontinuedproducts>
+                <class>LevoSoft_DiscontinuedProducts_Model</class>
+                <resourceModel>discontinuedproducts_mysql4</resourceModel>
+            </discontinuedproducts>
+        </models>
+        <resources>
+            <discontinuedproducts_setup>
+                <setup>
+                    <module>LevoSoft_DiscontinuedProducts</module>
+
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </discontinuedproducts_setup>
+            <discontinuedproducts_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </discontinuedproducts_write>
+            <discontinuedproducts_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </discontinuedproducts_read>
+        </resources>
+        <events>
+           ....
+        </events>
+    </global>
+</config> 
