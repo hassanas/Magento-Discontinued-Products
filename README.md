@@ -1,2 +1,12 @@
 # Magento-Discontinued-Products
 Comprehensive Solution to Disabled, Deleted and Discontinued Products
+
+Complete Solution to Disabled Products This extension is useful for small scale to large scale online business.
+
+Complete Solution to Disabled Products provide comprehensive options for the products which disabled or out of stock and you dont want to show them on the site any more. 
+
+You spent a lot of effor against online marketing and rank your products on searh engine but what happened if user diverted to your site and found 404 page. 
+
+Its really disappointing for the user and the site owner as well. Using "Complete Solution to Disabled Products" you can divert your disabled link to what ever the option you think and available in Magento. 
+
+For more understanding i had attached image for your understanding
