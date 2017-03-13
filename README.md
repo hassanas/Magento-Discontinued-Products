@@ -9,6 +9,7 @@ Complete Solution to Disabled Products provide comprehensive options for the pro
 
 You spent a lot of effor against online marketing and rank your products on searh engine but what happened if user diverted to your site and found 404 page. 
 
-Its really disappointing for the user and the site owner as well. Using "Complete Solution to Disabled Products" you can divert your disabled link to what ever the option you think and available in Magento. 
+Its really disappointing for the user and the site owner as well. Using "Complete Solution to Disabled Products" you can divert your disabled link to what ever the option you think and available in Magento.For more understanding i had attached image with all listed options.
 
-For more understanding i had attached image for your understanding
+For installations you can contact me at:
+hassanalishahzad@gmail.com,00923335300345
