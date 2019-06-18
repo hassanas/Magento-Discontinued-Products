@@ -39,7 +39,20 @@
             </discontinuedproducts_read>
         </resources>
         <events>
-           ....
+            <catalog_controller_product_view> <!-- identifier of the event we want to catch -->
+                <observers>
+                    <catalog_controller_product_view_handler> <!-- identifier of the event handler -->
+                        <type>singleton</type>
+                        <!-- class method call type; valid are model, object and singleton -->
+                        <class>discontinuedproducts/observer</class>
+                        <!-- observers class alias -->
+                        <method>discontinuedProductsRedirect</method>
+                        <!-- observer's method to be called -->
+                        <args></args>
+                        <!-- additional arguments passed to observer -->
+                    </catalog_controller_product_view_handler>
+                </observers>
+            </catalog_controller_product_view>
         </events>
     </global>
 </config> 
